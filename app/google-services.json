@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396500258835",
+    "project_id": "scrapinator-e25d8",
+    "storage_bucket": "scrapinator-e25d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396500258835:android:4f1f305c3054e1c724afe6",
+        "android_client_info": {
+          "package_name": "com.example.scrap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjGZ1A00MdPwnUy0vSkUNqFLwWcgDo_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
