@@ -28,7 +28,17 @@ This Android-based app allows users to sell scrap online at **market-standard ra
 - 🔄 **Efficient recycling chain** – scrap passed to verified recycling centers
     
 ## 📱 App Preview
-
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/73d0bd46-ef77-4c21-9415-7800273b9c92" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/d4eba114-06a9-44f8-b388-44fbdf64812d" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/6bc2a2a8-e4e9-4e1d-a25b-373c0b9508bc" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/6d13505a-169b-453d-96c2-164f08459b6b" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/44f8f8de-46f2-4174-b1bb-20092207caff" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/fc743595-8998-4791-a417-27b5fc58b0d4" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/0be52238-0bbd-45f5-9317-971acf1cfe04" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/c29ef7f2-533d-4476-89d3-6f4efd6739ce" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/7442f996-2f1f-4377-8ddb-3eec831353c4" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/a62519ee-3886-426d-abc6-543e8cf501d8" />
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/19315ea2-1c3f-4e69-8d9c-b08d09147b2e" />
 
 ## 🛠️ Tech Stack
 - **Java** (Android Development)  
