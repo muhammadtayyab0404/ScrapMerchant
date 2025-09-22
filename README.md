@@ -33,8 +33,6 @@ This Android-based app allows users to sell scrap online at **market-standard ra
 <img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/d4eba114-06a9-44f8-b388-44fbdf64812d" />
 <img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/73d0bd46-ef77-4c21-9415-7800273b9c92" />
 <img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/6bc2a2a8-e4e9-4e1d-a25b-373c0b9508bc" />
-<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/6d13505a-169b-453d-96c2-164f08459b6b" />
-<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/44f8f8de-46f2-4174-b1bb-20092207caff" />
 <img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/fc743595-8998-4791-a417-27b5fc58b0d4" />
 <img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/0be52238-0bbd-45f5-9317-971acf1cfe04" />
 
