@@ -1,4 +1,4 @@
-# 📱 E-Scrap Collector (Scrap Merchant App)
+# 📱 Scrap Merchant App
 
 ## 🌍 Introduction
 In Pakistan, traditional scrap collection is inefficient and disruptive — local collectors roam streets, consuming fuel, time, and creating noise pollution. The **E-Scrap Collector App** digitalizes this process by connecting citizens with scrap collectors through a mobile platform.  
